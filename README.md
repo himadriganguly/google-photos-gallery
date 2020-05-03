@@ -1,4 +1,10 @@
-# images
+# Google Photos Image Gallery
+
+This is a sample project using Google Photos API, Google Oauth2, VueJs, Vuex and Vue Router to display the images from the Google Photos.
+
+# Future Scope
+
+Upload images to Google Photos using Google Photos API
 
 ## Project setup
 
